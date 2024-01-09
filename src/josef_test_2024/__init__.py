@@ -1,1 +1,1 @@
-from algorithm import neg_of_number
+from .algorithm import neg_of_number
